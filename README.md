@@ -1,4 +1,4 @@
 # my-first
-This is my first repo.
-welcome to my latest repo.
-Author - Aditya Prajapati
+This is my first repo.<br>
+welcome to my latest repo.<br>
+Author - Aditya Prajapati<br>
